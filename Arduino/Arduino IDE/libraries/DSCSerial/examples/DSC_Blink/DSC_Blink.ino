@@ -1,4 +1,4 @@
-*
+/*
   MYBOTSHOP Dynamixel Servo Controllerboard (DSC)
   
   Product: https://www.mybotshop.de/Raspberry-Pi-Dynamixel-Servo-Controllerboard
